@@ -1,4 +1,4 @@
-##<h1 Hi there 👋</h1>
+<h1 Hi there 👋</h1>
 
 <h1 align="center">Hi 👋, I'm Kiruthika P</h1>
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | ML Enthusiast</h3>
