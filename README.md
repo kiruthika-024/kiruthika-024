@@ -1,130 +1,121 @@
-<h1 align="center">Hi 👋, I'm Kiruthika P</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack Developer | ML Enthusiast</h3>
-
 <p align="center">
-📍 Coimbatore, India <br/>
-📧 <a href="mailto:pkiruthika419@gmail.com">pkiruthika419@gmail.com</a> | 📱 9361122761
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Kiruthika+P+👋;Full+Stack+Developer+🚀;Machine+Learning+Enthusiast+🤖;CSE+Student+at+KIT+🎓" />
+</p>
+
+<h2 align="center">👩‍💻 Kiruthika P</h2>
+<p align="center">
+<strong>Computer Science Engineering Student | Full Stack Developer | ML Enthusiast</strong>
 </p>
 
 <p align="center">
-<a href="https://github.com/kiruthika-024"><img src="https://img.shields.io/badge/GitHub-kiruthika--024-black?logo=github"></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+📍 Coimbatore, India &nbsp;|&nbsp;
+📧 <a href="mailto:pkiruthika419@gmail.com">pkiruthika419@gmail.com</a> &nbsp;|&nbsp;
+📱 9361122761
+</p>
+
+<p align="center">
+<a href="https://github.com/kiruthika-024"><img src="https://img.shields.io/badge/GitHub-kiruthika--024-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:pkiruthika419@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-🎓 Pre-final year **Computer Science Engineering** student at **KIT – Kalaignarkarunanidhi Institute of Technology**  
-💡 Passionate about **Full Stack Development**, **Machine Learning**, and **Cloud Applications**  
-🧠 Active problem solver on **CodeChef, LeetCode, and Codeforces**  
-🚀 Love building **real-world projects** and continuously learning new technologies  
-
----
-
-## 🎓 Education
-
-**B.E Computer Science Engineering (2023 – 2027)**  
-KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore  
-📊 **CGPA: 7.99 / 10**
-
-**Relevant Coursework:**  
-Computer Networks • Operating Systems • Database Management Systems • Machine Learning  
+🎓 Pre-final year **CSE student at KIT – Kalaignarkarunanidhi Institute of Technology**  
+🚀 Passionate about **Full Stack Development**, **Machine Learning**, and **Cloud Applications**  
+💡 Love solving problems on **CodeChef, LeetCode & Codeforces**  
+🛠 Currently building **real-world projects** and exploring **Generative AI & DevOps**  
 
 ---
 
-## 💼 Experience
+## ⚡ Tech Stack
 
-### 💻 Full Stack Developer Intern — Learnlogicify Technologies (June 2025)
-- Built responsive web pages using **HTML, CSS, JavaScript**  
-- Used **Git & GitHub** for collaboration and version control  
-- Participated in debugging, testing, and code reviews  
-- Strengthened real-world development and problem-solving skills  
+<p align="center">
 
----
+**Languages**  
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 
-## 🚀 Projects
+**Frontend**  
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 
-### 🖼 Cartoon Yourself App (GAN)
-- Converts real images into cartoon-style images using **GAN deep learning models**  
-- Integrated ML model with a web-based UI  
-- **Tech Stack:** Python, GANs, HTML, CSS  
+**Databases & Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github" />
 
-### 📧 Email Spam Detection
-- Built a machine learning model to classify spam and non-spam emails  
-- Performed text preprocessing and stored results in **SQLite**  
-- **Tech Stack:** Python, Scikit-learn, SQLite  
-
-### 🌐 Personal Portfolio Website
-- Fully responsive personal website  
-- Showcases skills, projects, and achievements  
-- **Tech Stack:** HTML, CSS, JavaScript  
-
-### 🧃 Fruit Juice Hub (E-Commerce Website)
-- Developed frontend UI for an online juice store  
-- Clean and responsive product pages  
-- **Tech Stack:** HTML, CSS, JavaScript, React.js  
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Featured Projects
 
-**Programming Languages:**  
-C • C++ • Java • Python • JavaScript  
+🖼 **Cartoon Yourself App (GAN)**  
+> Deep learning app that converts real images into cartoon-style images using GANs  
 
-**Web Development:**  
-HTML • CSS • Bootstrap • React.js  
+📧 **Email Spam Detection**  
+> Machine learning system to classify spam and non-spam emails with SQLite storage  
 
-**Databases & Tools:**  
-SQL • SQLite • Git • GitHub  
+🌐 **Personal Portfolio Website**  
+> Responsive portfolio showcasing skills, projects & achievements  
 
-**Core CS:**  
-Operating Systems • DBMS • Computer Networks  
-
----
-
-## 🏆 Competitive Programming
-
-| Platform   | Achievements |
-|------------|-------------|
-| CodeChef   | ⭐ 1 Star (Max 1026) • 650+ problems • Rank 209 in Starters |
-| LeetCode   | Max 1447 • Top 78% • 100+ problems |
-| Codeforces | Max 876 • Rank 872 in Div-2 Round 1048 |
+🧃 **Fruit Juice Hub (E-Commerce)**  
+> Frontend UI for an online juice store built using React.js  
 
 ---
 
-## 🏅 Achievements
+## 🏆 Competitive Programming Highlights
 
-- 🥇 Gold Badge for solving **500+ coding problems**  
-- 🧠 HackerRank Problem Solving Badge  
-- ☁️ Salesforce AgentBlazer & Innovator Badges  
-- 🏁 Participated in **60+ coding contests**  
+- ⭐ CodeChef **1 Star** (Max Rating 1026) – 650+ problems  
+- 🧠 LeetCode Max Rating **1447** – Top 78%  
+- ⚔️ Codeforces Max Rating **876**  
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-- IBM – Web Development (2024)  
-- Infosys – Java Programming (2024)  
-- SkillUp – Introduction to Generative AI (2025)  
-- Red Hat – Fundamentals of Linux (2025)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiruthika-024&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiruthika-024&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthika-024&layout=compact&theme=radical" width="50%" />
+</p>
+
+---
+
+## 🏅 Achievements & Certifications
+
+🥇 Solved **500+ coding problems** – Gold Badge  
+🧠 HackerRank Problem Solving Badge  
+☁️ Salesforce AgentBlazer & Innovator Badges  
+
+📜 IBM – Web Development  
+📜 Infosys – Java Programming  
+📜 SkillUp – Generative AI  
+📜 Red Hat – Linux Fundamentals  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React & Full Stack Development  
-- Cloud & DevOps  
-- Machine Learning & Generative AI  
+⚡ Advanced React & Full Stack  
+☁️ Cloud & DevOps  
+🤖 Machine Learning & Generative AI  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-📧 Email: **pkiruthika419@gmail.com**  
-🔗 GitHub: [kiruthika-024](https://github.com/kiruthika-024)  
-🔗 LinkedIn: *(Add your LinkedIn profile link here)*  
+<p align="center">
+<a href="https://github.com/kiruthika-024"><img src="https://img.shields.io/badge/GitHub-kiruthika--024-black?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:pkiruthika419@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*  
+⭐ *If you like my profile, don’t forget to star ⭐ some repositories and connect with me!*  
