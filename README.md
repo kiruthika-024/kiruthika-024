@@ -2,23 +2,23 @@
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | ML Enthusiast</h3>
 
 <p align="center">
-📍 Coimbatore, India <br>
-📧 <a href="mailto:pkiruthika419@gmail.com">pkiruthika419@gmail.com</a> | 📱 9361122761  
+📍 Coimbatore, India <br/>
+📧 <a href="mailto:pkiruthika419@gmail.com">pkiruthika419@gmail.com</a> | 📱 9361122761
 </p>
 
 <p align="center">
 <a href="https://github.com/kiruthika-024"><img src="https://img.shields.io/badge/GitHub-kiruthika--024-black?logo=github"></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Pre-final year **Computer Science Engineering** student at **KIT – Kalaignarkarunanidhi Institute of Technology**
-- 💡 Passionate about **Full Stack Development**, **Machine Learning**, and **Cloud Applications**
-- 🧠 Active problem solver on **CodeChef, LeetCode, and Codeforces**
-- 🚀 Love building **real-world projects** and learning new technologies
+🎓 Pre-final year **Computer Science Engineering** student at **KIT – Kalaignarkarunanidhi Institute of Technology**  
+💡 Passionate about **Full Stack Development**, **Machine Learning**, and **Cloud Applications**  
+🧠 Active problem solver on **CodeChef, LeetCode, and Codeforces**  
+🚀 Love building **real-world projects** and continuously learning new technologies  
 
 ---
 
@@ -29,46 +29,47 @@ KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
 📊 **CGPA: 7.99 / 10**
 
 **Relevant Coursework:**  
-Computer Networks • Operating Systems • DBMS • Machine Learning  
+Computer Networks • Operating Systems • Database Management Systems • Machine Learning  
 
 ---
 
 ## 💼 Experience
 
 ### 💻 Full Stack Developer Intern — Learnlogicify Technologies (June 2025)
-- Built responsive web pages using **HTML, CSS, JavaScript**
-- Used **Git & GitHub** for collaboration and version control
+- Built responsive web pages using **HTML, CSS, JavaScript**  
+- Used **Git & GitHub** for collaboration and version control  
 - Participated in debugging, testing, and code reviews  
-- Improved real-world development & problem-solving skills  
+- Strengthened real-world development and problem-solving skills  
 
 ---
 
 ## 🚀 Projects
 
 ### 🖼 Cartoon Yourself App (GAN)
-- Converts real images into cartoon-style images using **GAN models**
+- Converts real images into cartoon-style images using **GAN deep learning models**  
 - Integrated ML model with a web-based UI  
 - **Tech Stack:** Python, GANs, HTML, CSS  
 
 ### 📧 Email Spam Detection
-- Built ML model to classify spam and non-spam emails  
-- Text preprocessing & stored results in **SQLite**  
+- Built a machine learning model to classify spam and non-spam emails  
+- Performed text preprocessing and stored results in **SQLite**  
 - **Tech Stack:** Python, Scikit-learn, SQLite  
 
 ### 🌐 Personal Portfolio Website
 - Fully responsive personal website  
-- Showcases skills, projects & achievements  
+- Showcases skills, projects, and achievements  
 - **Tech Stack:** HTML, CSS, JavaScript  
 
 ### 🧃 Fruit Juice Hub (E-Commerce Website)
-- Developed clean and responsive UI for online juice store  
+- Developed frontend UI for an online juice store  
+- Clean and responsive product pages  
 - **Tech Stack:** HTML, CSS, JavaScript, React.js  
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages:**  
+**Programming Languages:**  
 C • C++ • Java • Python • JavaScript  
 
 **Web Development:**  
@@ -94,7 +95,7 @@ Operating Systems • DBMS • Computer Networks
 
 ## 🏅 Achievements
 
-- 🥇 Gold Badge for solving **500+ coding problems**
+- 🥇 Gold Badge for solving **500+ coding problems**  
 - 🧠 HackerRank Problem Solving Badge  
 - ☁️ Salesforce AgentBlazer & Innovator Badges  
 - 🏁 Participated in **60+ coding contests**  
@@ -127,4 +128,3 @@ Operating Systems • DBMS • Computer Networks
 ---
 
 ⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*  
-
